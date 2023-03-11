@@ -1,4 +1,4 @@
-# ecommerce-store
+# Ecommerce-store
 Shophera is a Ecommerce website built using MERN stack.
 
 Following Is the Demo Video for the same.
